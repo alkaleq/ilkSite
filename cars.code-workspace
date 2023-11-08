@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../cars"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ilk_site"
+	}
+}
